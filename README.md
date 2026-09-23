@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Yuvan 👋
 
 Software Engineer Apprentice passionate about building scalable backends, working with enterprise cloud architecture, and deriving insights through data analytics and machine learning.
 
@@ -6,7 +6,7 @@ Software Engineer Apprentice passionate about building scalable backends, workin
 
 ### 🚀 About Me
 
-- 💼 **Current Role:** Software Engineer Apprentice at **Fidelity Investments**
+- 💼 **Role:** Software Engineer Apprentice at **Fidelity Investments**
 - ☁️ **Certified:** Oracle Cloud Infrastructure (OCI) Foundations Associate
 - 📊 **Background:** Data Analytics Certified with an analytical foundation bridging science, problem-solving, and software design
 - 🎯 **Focus Areas:** Enterprise Backend Systems, Cloud Fundamentals, and ML Data Pipelines
